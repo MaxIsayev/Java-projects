@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Message sender</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_to_DB">Send to DB</string>
+    <string name="button_from_DB">Receive</string>
+    <string name="button_upload">To server</string>
+    <string name="button_download">From server</string>
+    <string name="button_gps">GPS</string>
+    <string name="button_preview">Preview</string>
+    <string name="button_camera">Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_upload_image">UploadImageActivity</string>
+    <string name="title_activity_download_file_demo1">DownloadFileDemo1</string>
+
+</resources>
