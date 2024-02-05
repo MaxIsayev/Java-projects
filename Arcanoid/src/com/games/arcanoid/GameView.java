@@ -48,7 +48,7 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback{
 
     
     /**
-     * Создание области рисования
+     * Создание области рисованияewaeqraweweqr
      */
     public void surfaceCreated(SurfaceHolder holder)
     {
